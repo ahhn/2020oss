@@ -136,39 +136,13 @@
 
 
 ### 3.3 컬렉션 등록
-[영문 튜토리얼](https://info.omeka.net/build-a-website/manage-collections/)
-
-Collections may be used in a variety of contexts that make the most sense for your archive. It is not necessary to follow a traditional interpretation of a collection, for example by owner or donor. In Omeka.net, you can also use tags to organize similar items into categories.
-
-Create a Collection
-Click on the “Collections” tab in the left navigation bar from the Dashboard. Any collections you have created will be listed on the /admin/collections page.
-To create a new collection, click, “Add a Collection.”.
-You then may assign a full complement of Dublin Core metadata to any collection. Or, simply title and describe the collection.
-To make your collection public, check the “Public” box under the “Add Collection” button. Likewise, to feature your collection, check “Feature.”
-When you are finished adding metadata, clicking “Add Collection.”
-Add_Collection
-
-Now, you may associate an item with this collection, from the items/add or items/edit pages. Read more below.
-
-Adding Items to Collections
-Add_Item_to_Collection
-
-To add items to collections, you must first create the collection. See Add Items to read more about associating an item with a collection.
-
-An item may only belong to one collection a time. You may switch an item from one collection to another at any time.
-
-Edit a Collection
-To edit a collection, click the Edit link underneath the title from the Browse Collections page, /admin/collection. Edit in any fields you wish, and click the “Save Changes” button to the right of the screen.
-
-Browsing Collections
-By clicking the Collections tab, you may browse through the collections in your archive. They are listed with very basic metadata: Title, Contributors, Date Added, and Total Number of Items. You may sort collections by clicking Title or Date Added.
-
+[컬렉션 등록 매뉴얼](https://info.omeka.net/build-a-website/manage-collections/)
 
 
 
 
 ### 3.4 아이템 등록
-[영문 튜토리얼](https://info.omeka.net/build-a-website/add-items/)
+[아이템 등록 매뉴얼](https://info.omeka.net/build-a-website/add-items/)
 
 **영상 튜토리얼**
 ![Alt text](https://vimeo.com/102040466)
