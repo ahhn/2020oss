@@ -73,11 +73,54 @@
 
 ## 3. Omeka 활용방법
 
-### omeka.net 가입
-### omeka 둘러보기
-### 컬렉션 등록
-### 아이템 등록
-### 전시 만들기
+### 3.1 omeka.net 가입
+- www.omeka.net 접속 > Learn which plan is right for you 클릭
+
+![Alt text](/image/image_01.png)
+
+### 3.2 omeka 둘러보기
+- Start your free Omeka trial 클릭 (유료 계정을 만들면 더 많은 기능과 디자인 사용 가능)
+![Alt text](/image/image_02.png)
+
+
+- 계정 정보 작성 후 'Sign Up' 클릭
+![Alt text](/image/image_03.png)
+
+
+- 로그인 : MY ACCOUNT > Log In > Manage Site(관리 사이트) or View Site(서비스 사이트) 접속
+![Alt text](/image/image_04.png)
+
+- 관리자 대시보드
+
+- 1) 상단메뉴
+  - Plugins : 플러그인 설치/설정
+  - Appearance : 테마, 메뉴구성, 페이지설정
+  - Users : 사용자 관리
+  - Settings : 사이트 이름, 검색옵션, 메타데이터요소, 아이템유형, API설정
+
+- 2) 좌측메뉴
+  - Dashboard : 등록 현황
+  - Items : 아이템 등록/관리
+  - Collections : 컬렉션 등록/관리
+  - Item Types : 아이템 유형 등록/관리
+  - Tags : 태그 등록/관리
+![Alt text](/image/image_05.png)
+
+
+- View Site (서비스 사이트)
+  -등록된 아이템, 컬렉션, 전시를 일반 이용자들에게 보여주는 사이트
+
+![Alt text](/image/image_06.png)
+
+
+
+### 3.3 컬렉션 등록
+
+![Alt text](/image/image_01.png)
+
+### 3.4 아이템 등록
+
+### 3.5 전시 만들기
 
 
 
