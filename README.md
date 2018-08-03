@@ -72,6 +72,7 @@
 
 
 ## 3. Omeka 활용방법
+> [이용자 매뉴얼] (https://info.omeka.net/manage-an-account/)
 
 ### 3.1 가입
 - www.omeka.net 접속 > Learn which plan is right for you 클릭
