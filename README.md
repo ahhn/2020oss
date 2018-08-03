@@ -78,7 +78,6 @@
 
 ![Alt text](/image/image_01.png)
 
-### 3.2 둘러보기
 - Start your free Omeka trial 클릭 (유료 계정을 만들면 더 많은 기능과 디자인 사용 가능)
 
 ![Alt text](/image/image_02.png)
@@ -93,6 +92,9 @@
 
 ![Alt text](/image/image_04.png)
 
+
+
+### 3.2 둘러보기
 
 - 관리자 대시보드
 
@@ -123,6 +125,7 @@
 
 
 
+
 ### 3.3 컬렉션 등록
 
 
@@ -130,7 +133,12 @@
 
 
 
+
+
 ### 3.4 아이템 등록
+
+
+
 
 
 
