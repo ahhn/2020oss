@@ -144,13 +144,6 @@
 ### 3.4 아이템 등록
 [아이템 등록 매뉴얼](https://info.omeka.net/build-a-website/add-items/)
 
-**영상 튜토리얼**
-
-<iframe src="https://player.vimeo.com/video/102040466" width="640" height="304" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/102040466">Omeka Classic: Managing Items</a> from <a href="https://vimeo.com/omeka">Omeka</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-
-
 
 ### 3.5 전시 만들기
 [플러그인 설치](https://info.omeka.net/build-a-website/manage-plugins/)
