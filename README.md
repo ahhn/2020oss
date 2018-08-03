@@ -212,7 +212,7 @@
 
 
 
-### Instructor information
+## Instructor information
  
 [Daejin Ahn](https://www.instagram.com/djahhn/) is an artist and enterpreneur based in Seoul. Ahn founded the [archivelab](http://archivelab.co.kr) in 2016, where he continues to experiment and explore open source software based digital archives.
  
