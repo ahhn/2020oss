@@ -17,17 +17,17 @@
 - “ To preserve and present history online ”
 - Omeka 프로젝트는 IT 비전공자인 GLAM기관(Gallery, Library, Archives, Museum)의 직원이 소장물을 쉽게 온라인 콘텐츠로 작성하고 많은 이용자들을 참여시키는 것을 목표로 한다. 따라서 관리자 페이지와 서비스 페이지 모두 아주 직관적인 이용자 인터페이스를 제공하며 어노테이션(annotation) 등 다양한 웹 2.0 기술을 적용하였다. 
 
-<img src="https://omeka.org/images/omeka-classic.png">
+![Alt text](https://omeka.org/images/omeka-classic.png)
 
 
 ## 2. Omeka를 이용한 히스토리 큐레이션 
 ### 순서
-2.1 주제 선정
-2.2 관련자료 찾기
-2.3 에세이(Curator’s essay) 작성
-2.4 omeka.net 가입
-2.5 관련자료 등록
-2.6 전시(Exhibition) 구성
+- 2.1 주제 선정
+- 2.2 관련자료 찾기
+- 2.3 에세이(Curator’s essay) 작성
+- 2.4 omeka.net 가입
+- 2.5 관련자료 등록
+- 2.6 전시(Exhibition) 구성
 
 
 ### 예시
