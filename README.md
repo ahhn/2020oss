@@ -5,15 +5,15 @@
 
 ## 1.Omeka 소개
 
-### 1.1 Omeka 개요
+**1.1 Omeka 개요**
 - 도서관, 박물관, 아카이브의 기록 컬렉션을 쉽게 큐레이션하기 위한 웹 퍼블리싱 소프트웨어
 
-### 1.2 개발주체 및 이용자 현황
+**1.2 개발주체 및 이용자 현황**
 - 2008년 미국 조지메이슨대학의 역사뉴미디어센터(RRCHNM, Roy Rosenzweig Center for History and New Media)가 개발
 - RRCHNM은 미국 내 역사교육 및 디지털 인문학 분야에서 주도적인 역할을 수행
 - 출시 이후 omeka.net은 전 세계 45,000명이 넘는 사용자와 3만 개 이상의 사이트로 성장
 
-### 1.3 프로젝트의 배경과 목적
+**1.3 프로젝트의 배경과 목적**
 - “ To preserve and present history online ”
 - Omeka 프로젝트는 IT 비전공자인 GLAM기관(Gallery, Library, Archives, Museum)의 직원이 소장물을 쉽게 온라인 콘텐츠로 작성하고 많은 이용자들을 참여시키는 것을 목표로 한다. 따라서 관리자 페이지와 서비스 페이지 모두 아주 직관적인 이용자 인터페이스를 제공하며 어노테이션(annotation) 등 다양한 웹 2.0 기술을 적용하였다. 
 
@@ -31,11 +31,11 @@
 
 
 ### 예시
-#### 2.1. 주제 선정
+**2.1. 주제 선정**
 전쟁과 예술: 영국의 프로파간다 1939-45
 
 
-#### 2.2. 관련자료 찾기
+**2.2. 관련자료 찾기**
 - [British_propaganda_during_World_War_II](https://en.wikipedia.org/wiki/British_propaganda_during_World_War_II)
 
 - [영국의 제국 프로파간다와 전쟁미술, 1939-1945 < 한국서양사학회 < KISS](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3523164)
@@ -44,17 +44,17 @@
 
 - [국가 이미지 전쟁, 미하엘 쿤치크](https://books.google.co.kr/books?id=MKFwAgAAQBAJ&pg=PA70&lpg=PA70&dq=%EC%98%81%EA%B5%AD%EC%9D%98+%ED%94%84%EB%A1%9C%ED%8C%8C%EA%B0%84%EB%8B%A4&source=bl&ots=cIXMAT1cnB&sig=zbH1EjeFrR3ZGMKClKNTveug1O8&hl=ko&sa=X&ved=2ahUKEwiTs4y9pczcAhUFE7wKHaLgCTcQ6AEwAnoECAIQAQ#v=onepage&q=%EC%98%81%EA%B5%AD%EC%9D%98%20%ED%94%84%EB%A1%9C%ED%8C%8C%EA%B0%84%EB%8B%A4&f=false)
 
-#### 2.3. 에세이(Curator’s essay) 작성
+**2.3. 에세이(Curator’s essay) 작성**
 이 사이트는 2차대전 당시 영국 전쟁예술가자문위원회의 활동과 전시를 역사학적 관점에서, 특히 제국 프로파간다의 측면에서 보여주고자 한다. 총력전체제 속에서 영국은 전쟁동원과 제국통합을 도모함과 동시에 역설적으로 자유와 민주, 평등과 다양성의 담지자로 나섰다. 이를 효과적으로 달성하기 위한 일환으로 영국은 전쟁미술 수집과 전시를 통한 프로파간다를 기획했다. 영국은 전쟁미술 전시를 통해 단순한 전쟁동원을 넘어 전후 제국적 질서까지 염두에 두고 프로파간다를 펼쳤다. 이 사이트는 프로파간다 포스터와 필름을 통해 이상적 제국구상과 전쟁이라는 현실 속에서 영국이 추구했던 '자유의 수호자'와 '제국'의 정체성이 충돌하는 지점을 밝히고 영연방으로의 안정적인 전환을 위한 작업을 분석한다. (출처: 조호희 ( Cho Ho-hee ). 2017. 영국의 제국 프로파간다와 전쟁미술, 1939-1945. 서양사론, 133(0) : 193-222 재구성)
 
-#### 2.4. omeka.net 가입
+**2.4. omeka.net 가입**
 [www.omeka.net](https://www.omeka.net)
 
-#### 2.5. 관련자료 등록
+**2.5. 관련자료 등록**
 컬렉션 3개  : 포스터, 필름, 카툰
 아이템 45개 : 포스터(30개), 필름(5개), 카툰(10개)
 
-#### 2.6. 전시(Exhibition) 구성
+*2.6. 전시(Exhibition) 구성*
 
 **섹션1. 집(Home Front)**
 
