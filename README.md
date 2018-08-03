@@ -1,7 +1,7 @@
 # Omeka를 이용한 히스토리 큐레이션
 2018년 2학기 한국외국어대학교 사학과 "서양사와 아카이브 컨텐츠" 강의자료
 
-[강의자료 다운로드](https://github.com/ahhn/2018Omeka2/HistoryCuration_with_Omeka.pdf)
+[강의자료 다운로드](https://github.com/ahhn/2018Omeka2/blob/master/HistoryCuration_with_Omeka.pdf)
 
 ## Omeka 소개
 
