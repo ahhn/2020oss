@@ -92,14 +92,11 @@
 
 ## 4. 참고 사이트
 **강의자료**
-
 - 강의 깃허브 : https://ahhn.github.io/2018Omeka2/
 
 
 **Omeka**
-
 - Omeka (가입형) : https://omeka.net
-
 - Omeka (설치형) : https://omeka.org
  
 
