@@ -77,7 +77,7 @@
 유명인들의 이미지는 선전 목적으로 광범위하게 사용되었다. 이미지들은 공장, 식당, 학교 및 광고판과 같은 위치에 다양한 자막과 메시지로 표시되었다. 이 섹션에서는 영국과 동맹국의 유명한 정치인, 군인, 왕족 등 전시(wartime) 인물들의 초상화가 포함되어 있다.
 
 
-## Omeka 활용방법
+## 3. Omeka 활용방법
 
 ### omeka.net 가입
 ### omeka 둘러보기
@@ -90,9 +90,46 @@
 
 
 
+## 4. 참고 사이트
+**강의자료**
+강의 깃허브 : https://ahhn.github.io/2018Omeka2/
 
 
-## Further Reading
+**Omeka**
+Omeka (가입형) : https://omeka.net
+Omeka (설치형) : https://omeka.org
+ 
+
+**히스토리 컬렉션 찾기**
+TeachingHistory : http://teachinghistory.org/
+World History Sources : http://chnm.gmu.edu/worldhistorysources/
+The National Coalition for History :http://historycoalition.org/
+Women in World History : http://chnm.gmu.edu/wwh/index.php
+미의회도서관 디지털 컬렉션 : https://www.loc.gov/collections/
+미국디지털도서관 2차세계대전 컬렉션 : https://dp.la/search?q=second+world+war
+미국국립기록청의 2차세계대전 컬렉션 : https://www.archives.gov/research/military/ww2
+영국국립기록관의 2차세계대전 컬렉션 : http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/second-world-war/
+
+
+**히스토리 큐레이션 사례  (2차세계대전 관련)**
+굴라크, 많은 날, 많은 삶 : http://gulaghistory.org/
+1989 역사 만들기: 동유럽 공산주의의 몰락 : http://chnm.gmu.edu/1989/
+전쟁과 예술: 영국의 프로파간다 1939-45: http://www.nationalarchives.gov.uk/theartofwar/prop/
+2차 세계대전 : http://www.nationalarchives.gov.uk/education/worldwar2/
+
+
+**히스토리 큐레이션 모음**
+미국디지털도서관 온라인 전시 모음 : https://dp.la/exhibitions
+미국국립기록청 온라인 전시 모음 : https://www.archives.gov/exhibits
+영국국립기록관 온라인 전시 모음 : http://www.nationalarchives.gov.uk/online-exhibitions/
+Omeka 사이트 모음 : https://omeka.org/classic/directory/
+
+
+
+
+
+
+## 5. Further Reading
 
 **오픈소스 기록시스템 연구**
 
