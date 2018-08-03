@@ -80,14 +80,17 @@
 
 ### 3.2 omeka 둘러보기
 - Start your free Omeka trial 클릭 (유료 계정을 만들면 더 많은 기능과 디자인 사용 가능)
+
 ![Alt text](/image/image_02.png)
 
 
 - 계정 정보 작성 후 'Sign Up' 클릭
+
 ![Alt text](/image/image_03.png)
 
 
 - 로그인 : MY ACCOUNT > Log In > Manage Site(관리 사이트) or View Site(서비스 사이트) 접속
+
 ![Alt text](/image/image_04.png)
 
 - 관리자 대시보드
@@ -104,6 +107,7 @@
   - Collections : 컬렉션 등록/관리
   - Item Types : 아이템 유형 등록/관리
   - Tags : 태그 등록/관리
+
 ![Alt text](/image/image_05.png)
 
 
