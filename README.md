@@ -136,24 +136,24 @@
 
 
 ### 3.3 컬렉션 등록
-[컬렉션 등록 매뉴얼](https://info.omeka.net/build-a-website/manage-collections/)
+- [컬렉션 등록 매뉴얼](https://info.omeka.net/build-a-website/manage-collections/)
 
 
 
 
 ### 3.4 아이템 등록
-[아이템 등록 매뉴얼](https://info.omeka.net/build-a-website/add-items/)
+- [아이템 등록 매뉴얼](https://info.omeka.net/build-a-website/add-items/)
 
 
 ### 3.5 전시 만들기
-[플러그인 설치](https://info.omeka.net/build-a-website/manage-plugins/)
-[전시 만들기](https://info.omeka.net/build-a-website/manage-plugins/exhibit-builder-3/)
+- [플러그인 설치](https://info.omeka.net/build-a-website/manage-plugins/)
+- [전시 만들기](https://info.omeka.net/build-a-website/manage-plugins/exhibit-builder-3/)
 
 
 ### 3.6 사이트 꾸미기
-[보여주기 설정](https://info.omeka.net/build-a-website/manage-appearance-settings/)
-[테마 선택](https://info.omeka.net/build-a-website/manage-themes/) 
-[메뉴 만들기](https://info.omeka.net/build-a-website/change-site-navigation/)
+- [보여주기 설정](https://info.omeka.net/build-a-website/manage-appearance-settings/)
+- [테마 선택](https://info.omeka.net/build-a-website/manage-themes/) 
+- [메뉴 만들기](https://info.omeka.net/build-a-website/change-site-navigation/)
 
 
 
