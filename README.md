@@ -168,6 +168,7 @@
  
 
 **히스토리 컬렉션 찾기**
+- Archiives Portal Europe : https://www.archivesportaleurope.net/
 - TeachingHistory : http://teachinghistory.org/
 - World History Sources : http://chnm.gmu.edu/worldhistorysources/
 - The National Coalition for History :http://historycoalition.org/
@@ -191,24 +192,6 @@
 - 영국국립기록관 온라인 전시 모음 : http://www.nationalarchives.gov.uk/online-exhibitions/
 - Omeka 사이트 모음 : https://omeka.org/classic/directory/
 
-
-
-
-
-
-## 5. Further Reading
-
-**오픈소스 기록시스템 연구**
-
-- [안대진, 김익한. (2015). AtoM 시스템의 구축과 커스터마이징 방법에 관한 연구. 기록학연구, (45), 5-50.](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06391835?TotalCount=2&Seq=2&q=%5B%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%C2%A7coldb%C2%A72%C2%A751%C2%A73%5D%20AND%20%5B%EC%95%88%EB%8C%80%EC%A7%84%C2%A7coldb%C2%A77%C2%A726%C2%A73%5D&searchWord=%EC%A0%84%EC%B2%B4%3D%5E%24%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%5E*%20and%20%EC%A0%80%EC%9E%90%EB%AA%85%3D%5E%24%EC%95%88%EB%8C%80%EC%A7%84%5E*&Multimedia=0&isIdentifyAuthor=0&Collection=0&SearchAll=%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4&SearchAuthor=%EC%95%88%EB%8C%80%EC%A7%84&isFullText=0&specificParam=0&SearchMethod=0&Sort=1&SortType=desc&Page=1&PageSize=20)
-- [안대진, 임진희. (2016). 디지털 아카이브 시스템 구축을 위한 공개 소프트웨어 활용방안 연구. 정보관리학회지, 33(3), 345-370.](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07016659?TotalCount=2&Seq=1&q=%5B%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%C2%A7coldb%C2%A72%C2%A751%C2%A73%5D%20AND%20%5B%EC%95%88%EB%8C%80%EC%A7%84%C2%A7coldb%C2%A77%C2%A726%C2%A73%5D&searchWord=%EC%A0%84%EC%B2%B4%3D%5E%24%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%5E*%20and%20%EC%A0%80%EC%9E%90%EB%AA%85%3D%5E%24%EC%95%88%EB%8C%80%EC%A7%84%5E*&Multimedia=0&isIdentifyAuthor=0&Collection=0&SearchAll=%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4&SearchAuthor=%EC%95%88%EB%8C%80%EC%A7%84&isFullText=0&specificParam=0&SearchMethod=0&Sort=1&SortType=desc&Page=1&PageSize=20)
-- [안대진, 임진희. (2017). 기록시스템의 오픈소스화 전략 연구. 기록학연구, 52(3), 119-170.](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07163172)
-
-**2016년 제8회 전국기록인대회 발표자료집, 2016.10**
-
-1. [원종관. (2016). 서울기록원 디지털 아카이브. 한국기록관리학회 학술발표논문집, , 95-98.](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07025769)
-2. [김남규. (2016). 기업입장에서 평가하는 기록관리시스템 오픈소스화. 한국기록관리학회 학술발표논문집, , 99-105.](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07025770?TotalCount=17&Seq=16&q=(%5B%ED%95%9C%EA%B5%AD%EA%B8%B0%EB%A1%9D%EA%B4%80%EB%A6%AC%ED%95%99%ED%9A%8C%20%ED%95%99%EC%88%A0%EB%B0%9C%ED%91%9C%EB%85%BC%EB%AC%B8%EC%A7%91%C2%A7coldb%C2%A72%C2%A720%C2%A73%5D)&searchWord=%EA%B0%84%ED%96%89%EB%AC%BC%EB%AA%85%3D%5E%24%ED%95%9C%EA%B5%AD%EA%B8%B0%EB%A1%9D%EA%B4%80%EB%A6%AC%ED%95%99%ED%9A%8C%20%ED%95%99%EC%88%A0%EB%B0%9C%ED%91%9C%EB%85%BC%EB%AC%B8%EC%A7%91%5E*&fPublishYear=43%5E_2016%5E_2016%EB%85%84&Multimedia=0&isIdentifyAuthor=0&Collection=0&SearchBook=%ED%95%9C%EA%B5%AD%EA%B8%B0%EB%A1%9D%EA%B4%80%EB%A6%AC%ED%95%99%ED%9A%8C%20%ED%95%99%EC%88%A0%EB%B0%9C%ED%91%9C%EB%85%BC%EB%AC%B8%EC%A7%91&isFullText=0&specificParam=0&SearchMethod=0&Sort=1&SortType=desc&Page=1&PageSize=20)
-3. [안대진. (2016). 기록시스템 오픈소스화 모델. 한국기록관리학회 학술발표논문집, , 106-111.](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07025771?TotalCount=2&Seq=1&q=%5B%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%C2%A7coldb%C2%A72%C2%A751%C2%A73%5D%20AND%20%5B%EC%95%88%EB%8C%80%EC%A7%84%C2%A7coldb%C2%A77%C2%A726%C2%A73%5D&searchWord=%EC%A0%84%EC%B2%B4%3D%5E%24%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%5E*%20and%20%EC%A0%80%EC%9E%90%EB%AA%85%3D%5E%24%EC%95%88%EB%8C%80%EC%A7%84%5E*&Multimedia=0&isIdentifyAuthor=0&Collection=0&SearchAll=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4&SearchAuthor=%EC%95%88%EB%8C%80%EC%A7%84&isFullText=0&specificParam=0&SearchMethod=0&Sort=1&SortType=desc&Page=1&PageSize=20)
 
 
 
