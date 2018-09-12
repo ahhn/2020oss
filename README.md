@@ -5,6 +5,9 @@
 
 [강의자료2. Omeka를 이용한 히스토리 큐레이션 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture02_HistoryCuration_with_Omeka.pdf)
 
+[강의자료3. 오픈소스 소프트웨어 개요 (다운로드)] (https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+
+
 ## 1.Omeka 소개
 
 **1.1 Omeka 개요**
