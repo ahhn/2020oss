@@ -169,8 +169,9 @@
 
 
 **Omeka**
-- Omeka (가입형) : https://omeka.net
-- Omeka (설치형) : https://omeka.org
+- Omeka.net (가입형) : https://omeka.net
+- Omeka Classic (설치형) : https://omeka.org
+- Omeka Classic 설치방법 동영상 : https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf
  
 
 **히스토리 컬렉션 찾기**
