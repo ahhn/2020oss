@@ -7,7 +7,7 @@
 
 [강의자료3. 오픈소스 소프트웨어 개요 (다운로드)](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
 
-[강의자료4. 아카이브 소개 (다운로드)](https://github.com/ahhn/oss/raw/master/resources/Lecture00_Archives.pdf)
+[강의자료4. 아카이브 소개 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
 
 ## 1.Omeka 소개
 
