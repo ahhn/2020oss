@@ -48,6 +48,11 @@ StrictMode yes
 
 나가기(Ctrl + X)
 
+$ sudo cp /home/ubuntu/.ssh/authorized_keys /root/.ssh
+
+$ sudo service ssh restart
+
+
 
 ## 1.Omeka 소개
 
