@@ -17,24 +17,36 @@
 ### Root 관리자로 로그인 설정방법
 
 $ su -
+
 패스워드 입력 후 엔터
 
 $ sudo service ssh restart
+
 $ nano /etc/ssh/sshd_config
 
 방향키로 아래 텍스트를 찾기
 
 #Authentication
+
 LoginGraceTime 120
+
 PermitRootLogin **prohibit-password** 
+
 StrictMode yes
 
 위 텍스트를 아래와 같이 변경
 
 #Authentication
+
 LoginGraceTime 120
+
 PermitRootLogin **yes**
+
 StrictMode yes
+
+저장(Ctrl + O)
+
+나가기(Ctrl + X)
 
 
 ## 1.Omeka 소개
