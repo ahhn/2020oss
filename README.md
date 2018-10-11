@@ -11,6 +11,8 @@
 
 [강의자료5. Omeka v2.6.1 설치 매뉴얼 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/omeka_v2.6.1_installation.pdf)
 
+[강의자료6. Omeka 엑셀목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/poster1.xlsx)
+
 ## Omeka 설치
 강의자료5 참고
 
