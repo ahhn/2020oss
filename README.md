@@ -13,7 +13,10 @@
 
 [강의자료6. Omeka 엑셀목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/poster1.xlsx)
 
-[강의자료7. AWS, Omeka, Filezilla 등 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
+[강의자료7. AWS, Omeka, Filezilla 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
+
+[강의자료8. AWS, Omeka, Filezilla 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/AWS_v1.9.pdf)
+
 
 ## Omeka 설치
 강의자료5 참고
