@@ -219,8 +219,8 @@ $ sudo service ssh restart
 
 ## 4. 참고 사이트
 **강의자료**
-- 강의 깃허브 : https://ahhn.github.io/2018Omeka2/
-
+- 강의 깃허브 : [https://ahhn.github.io/2018Omeka2/](https://ahhn.github.io/2018Omeka2/)
+- 더블린 코어(Dublin Core) 메타데이터 설명 : [http://www.dublincore.go.kr/specifications/dces](http://www.dublincore.go.kr/specifications/dces)
 
 **Omeka**
 - Omeka.net (가입형) : https://omeka.net
