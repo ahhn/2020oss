@@ -123,7 +123,7 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 2) CSV로 저장
 - Microsoft 엑셀은 한글이 깨짐. csv 파일을 메모장으로 열어서 한글 인코딩을 UTF-8로 변경 후 다시 csv로 저장
 - LibreOffice를 사용하면 한글 깨짐 안생김
--- LibreOffice 다운로드 주소 :  https://ko.libreoffice.org/download/libreoffice-fresh/
+  - LibreOffice 다운로드 주소 :  https://ko.libreoffice.org/download/libreoffice-fresh/
 
 
 3) 첨부파일 업로드
@@ -132,16 +132,16 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 
 - FileZilla 설치 : https://filezilla-project.org/ > Download FileZilla Client > 설치 및 실행
 - 사이트 관리자 > 새 사이트 
--- 호스트 : 54.180.85.53
--- 프로토콜 : SFTP
--- 로그온 유형 : Key file
--- 사용자 : root
--- Key file : Browse 클릭 > .ppk 파일 선택(별도 제공)
--- 연결
--- 리모트 사이트 : /var/www/omeka/files/hansung2019/
--- 폴더 만들기 : 우측 하단 빈공간 우클릭 > 디렉토리 만들기 > 본인의 폴더 만들기(영문 소문자나 숫자, ex. djahhn)
--- 파일 업로드 : 파일명을 아이템의 식별자(Identifier)명과 동일하게 미리 변경 후 업로드 (ex. djahhn0001)
--- 파일 URL 따내기 : http://54.180.85.53/files/hansung2019/kim/djahhn0001.jpg)
+  - 호스트 : 54.180.85.53
+  - 프로토콜 : SFTP
+  - 로그온 유형 : Key file
+  - 사용자 : root
+  - Key file : Browse 클릭 > .ppk 파일 선택(별도 제공)
+  - 연결
+  - 리모트 사이트 : /var/www/omeka/files/hansung2019/
+  - 폴더 만들기 : 우측 하단 빈공간 우클릭 > 디렉토리 만들기 > 본인의 폴더 만들기(영문 소문자나 숫자, ex. djahhn)
+  - 파일 업로드 : 파일명을 아이템의 식별자(Identifier)명과 동일하게 미리 변경 후 업로드 (ex. djahhn0001)
+  - 파일 URL 따내기 : http://54.180.85.53/files/hansung2019/kim/djahhn0001.jpg
 
 4) Omeka 관리자 페이지 좌측 'CSV Import+' 클릭
 
@@ -162,14 +162,20 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 
 12) 좌측 Items 탭을 클릭하여 아이템 등록 
 
+
 ### 2.6. 컬렉션(Collections) 등록 ### 
 1) Collections 클릭
+
 2) Add a Collection 클릭
+
 3) Dublin Core 입력
 - Title : 컬렉션 제목 
 - Description : 컬렉션 소개글 작성
+
 4) Parent Collection 설정 : 상위 컬렉션이 있을 경우에 선택
+
 5) Public(공개여부), Featured(메인페이지 노출여부) 체크
+
 6) Owner 선택 : 컬렉션의 소유자 선택
 
 
@@ -271,7 +277,7 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 
 
 
-## 3. Omeka 활용방법
+## 3. Omeka.net 활용방법
 - [이용자 매뉴얼](https://info.omeka.net/manage-an-account/)
 
 ### 3.1 가입
@@ -329,7 +335,6 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 
 ### 3.3 컬렉션 등록
 - [컬렉션 등록 매뉴얼](https://info.omeka.net/build-a-website/manage-collections/)
-
 
 
 
