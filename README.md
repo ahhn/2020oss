@@ -13,7 +13,8 @@
 
 [강의자료6. AWS, Omeka, Filezilla 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/AWS_v1.9.pdf)
 
-[강의자료7. 더블린 코어(Dublin Core) 설명](http://www.dublincore.go.kr/specifications/dces)
+[강의자료7. 더블린 코어(Dublin Core) 설명](https://www.nl.go.kr/standards/dublincore/dublinCoreDcmes.do)
+
 
 
 ## 1.Omeka 소개
@@ -57,7 +58,7 @@
 - 생산 : 사진/영상 촬영, 구술(oral history), 필드레코딩
 
 <img src="http://s3.amazonaws.com/quietus_production/images/articles/11222/Chris_Watson_mic_1359033297_crop_550x385.jpg">
-<그림> 필드레코딩 중인 Chris Watson
+그림. 필드레코딩 중인 Chris Watson
 출처: https://thequietus.com/articles/11222-chris-watson-interview-sound-recording-cabaret-voltaire
 
 
