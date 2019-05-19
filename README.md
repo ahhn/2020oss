@@ -51,7 +51,7 @@
 - 주제 참고: [서울역사박물관 서울역사아카이브](http://www.museum.seoul.kr/archive/NR_index.do)
 
   - ex. [신림동 청춘 : 고시촌의 일상](http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc-848a5bc87d8f)
-<img src="http://www.museum.seoul.kr/upload/bbs/2015/10/12/1f25a39d-4f9e-4aab-81e8-f886dfdc7aeb.jpg>
+<img src="http://www.museum.seoul.kr/upload/bbs/2015/10/12/1f25a39d-4f9e-4aab-81e8-f886dfdc7aeb.jpg">
 출처: 서울역사박물관
   
 
