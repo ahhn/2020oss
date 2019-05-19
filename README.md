@@ -5,7 +5,7 @@
 
 [강의자료2. 오픈소스 소프트웨어 개요 (다운로드)](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
 
-[강의자료3. 아카이브 소개 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+[강의자료3. 아카이브 개요 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
 
 [강의자료4. Omeka CSV목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.csv)
 
@@ -13,6 +13,7 @@
 
 [강의자료6. AWS, Omeka, Filezilla 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/AWS_v1.9.pdf)
 
+[강의자료7. 더블린 코어(Dublin Core) 설명 : [http://www.dublincore.go.kr/specifications/dces](http://www.dublincore.go.kr/specifications/dces)
 
 
 ## 1.Omeka 소개
@@ -44,12 +45,11 @@
 - 2.8 사이트 꾸미기
 
 
-### 예시
-#### 2.1. 주제 선정 ####
+### 2.1. 주제 선정 ###
 > 전쟁과 예술: 영국의 프로파간다 1939-45
 
 
-#### 2.2. 관련자료 찾기 #### 
+### 2.2. 관련자료 찾기 ###
 - [British_propaganda_during_World_War_II](https://en.wikipedia.org/wiki/British_propaganda_during_World_War_II)
 
 - [영국의 제국 프로파간다와 전쟁미술, 1939-1945 < 한국서양사학회 < KISS](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3523164)
@@ -66,17 +66,17 @@
 
 - [London Can Take It](https://www.iwm.org.uk/history/this-propaganda-film-shows-life-on-the-british-home-front-in-1939)
 
-#### 2.3. 에세이(Curator’s essay) 작성 #### 
+### 2.3. 에세이(Curator’s essay) 작성 ###
 > 이 사이트는 2차대전 당시 영국 전쟁예술가자문위원회의 활동과 전시를 역사학적 관점에서, 특히 제국 프로파간다의 측면에서 보여주고자 한다. 총력전체제 속에서 영국은 전쟁동원과 제국통합을 도모함과 동시에 역설적으로 자유와 민주, 평등과 다양성의 담지자로 나섰다. 이를 효과적으로 달성하기 위한 일환으로 영국은 전쟁미술 수집과 전시를 통한 프로파간다를 기획했다. 영국은 전쟁미술 전시를 통해 단순한 전쟁동원을 넘어 전후 제국적 질서까지 염두에 두고 프로파간다를 펼쳤다. 이 사이트는 프로파간다 포스터와 필름을 통해 이상적 제국구상과 전쟁이라는 현실 속에서 영국이 추구했던 '자유의 수호자'와 '제국'의 정체성이 충돌하는 지점을 밝히고 영연방으로의 안정적인 전환을 위한 작업을 분석한다. (출처: 조호희 ( Cho Ho-hee ). 2017. 영국의 제국 프로파간다와 전쟁미술, 1939-1945. 서양사론, 133(0) : 193-222 재구성)
 
-#### 2.4. omeka.net 가입 #### 
+### 2.4. omeka.net 가입 ### 
 [www.omeka.net](https://www.omeka.net)
 
-#### 2.5. 관련자료 등록 #### 
+### 2.5. 관련자료 등록 ### 
 - 컬렉션 3개  : 포스터, 필름, 카툰
 - 아이템 45개 : 포스터(30개), 필름(5개), 카툰(10개)
 
-#### 2.6. 전시(Exhibition) 구성 #### 
+### 2.6. 전시(Exhibition) 구성 ### 
 **섹션1. 집(Home Front)**
 > 영국 정부는 전쟁 전반에 걸쳐 모든 민간인들의 참여를 독려하는 데 관심이 있었다. 가능하면 법제를 통한 집행보다는 자발적인 협력을 모색하기 위해 선전 운동은 다양한 삶의 영역에 초점을 맞추었다. 이 섹션에서는 건강, 안전, 효율성, 취업 등 일상(집)의 영역에서 메시지를 전달하는 데 사용된 심각하고 유머러스한 이미지를 보여준다.
 
@@ -180,31 +180,10 @@
 - Omeka.net (가입형) : https://omeka.net
 - Omeka Classic (설치형) : https://omeka.org
 - Omeka Classic 설치방법 동영상 : https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf
+- Omeka 사이트 모음 : https://omeka.org/classic/directory/
  
 
 **히스토리 컬렉션 찾기**
-- Archiives Portal Europe : https://www.archivesportaleurope.net/
-- TeachingHistory : http://teachinghistory.org/
-- World History Sources : http://chnm.gmu.edu/worldhistorysources/
-- The National Coalition for History :http://historycoalition.org/
-- Women in World History : http://chnm.gmu.edu/wwh/index.php
-- 미의회도서관 디지털 컬렉션 : https://www.loc.gov/collections/
-- 미국디지털도서관 2차세계대전 컬렉션 : https://dp.la/search?q=second+world+war
-- 미국국립기록청의 2차세계대전 컬렉션 : https://www.archives.gov/research/military/ww2
-- 영국국립기록관의 2차세계대전 컬렉션 : http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/second-world-war/
-
-
-**히스토리 큐레이션 사례  (2차세계대전 관련)**
-- 굴라크, 많은 날, 많은 삶 : http://gulaghistory.org/
-- 1989 역사 만들기: 동유럽 공산주의의 몰락 : http://chnm.gmu.edu/1989/
-- 전쟁과 예술: 영국의 프로파간다 1939-45: http://www.nationalarchives.gov.uk/theartofwar/prop/
-- 2차 세계대전 : http://www.nationalarchives.gov.uk/education/worldwar2/
-
-
-**히스토리 큐레이션 모음**
-- 미국디지털도서관 온라인 전시 모음 : https://dp.la/exhibitions
-- 미국국립기록청 온라인 전시 모음 : https://www.archives.gov/exhibits
-- 영국국립기록관 온라인 전시 모음 : http://www.nationalarchives.gov.uk/online-exhibitions/
 - Omeka 사이트 모음 : https://omeka.org/classic/directory/
 
 
