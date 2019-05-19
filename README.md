@@ -189,7 +189,7 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 - Omeka의 각 전시는 하위에 여러 계층의 페이지(Page)를 둘 수 있고, 각 페이지는 복수의 콘텐츠 블록(content block)으로 구성된다.
 - 콘텐츠 블록은 기록, 텍스트, 기록+텍스트, 지도 등의 콘텐츠에 적합한 여러 레이아웃을 선택 및 배열하여 구성한다.
 
-<img src="https://s3.amazonaws.com/libapps/accounts/17288/images/ExhibitBuilder3structure.png>
+<img src="https://s3.amazonaws.com/libapps/accounts/17288/images/ExhibitBuilder3structure.png">
 이미지 출처: https://libguides.whitman.edu/omeka/docs
 
 
