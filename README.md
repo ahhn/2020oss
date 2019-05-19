@@ -185,13 +185,13 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 - 좌측 Exhibits 클릭
 - Add an Exhibit
 - 전시정보 작성
--- Title : 전시 제목
--- Slug : 전시 URL의 뒷자리(영문소문자, 숫자 등. ex. exhibit01)
--- Credits : 크레딧 정보 (안써도 됨)
--- Description : 전시 소개문 작성
--- Tags : 태그 작성(콤마로 구분)
--- Theme : 전시 웹페이지에 사용될 디자인 테마 (전시마다 다르게 설정 가능)
--- Cover Image : 전시 커버 이미지 등록(등록 안해도 됨. 안하면 전시에 쓰인 첫번째 이미지를 사용)
+ - Title : 전시 제목
+ - Slug : 전시 URL의 뒷자리(영문소문자, 숫자 등. ex. exhibit01)
+ - Credits : 크레딧 정보 (안써도 됨)
+ - Description : 전시 소개문 작성
+ - Tags : 태그 작성(콤마로 구분)
+ - Theme : 전시 웹페이지에 사용될 디자인 테마 (전시마다 다르게 설정 가능)
+ - Cover Image : 전시 커버 이미지 등록(등록 안해도 됨. 안하면 전시에 쓰인 첫번째 이미지를 사용)
 - Public(공개여부), Featured(메인페이지 노출여부) 체크
 
 3) 페이지(Page) 생성
