@@ -48,10 +48,12 @@
 
 ### 2.1. 주제 선정 ###
 - 아카이빙 대상 또는 주제 선택
-- ex. [신림동 청춘 : 고시촌의 일상](http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc-848a5bc87d8f)
+- 주제 참고: [서울역사박물관 서울역사아카이브](http://www.museum.seoul.kr/archive/NR_index.do)
 
-주제 참고: [서울역사박물관 서울역사아카이브](http://www.museum.seoul.kr/archive/NR_index.do)
-
+  - ex. [신림동 청춘 : 고시촌의 일상](http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc-848a5bc87d8f)
+<img src="http://www.museum.seoul.kr/upload/bbs/2015/10/12/1f25a39d-4f9e-4aab-81e8-f886dfdc7aeb.jpg>
+출처: 서울역사박물관
+  
 
 ### 2.2. 기록 수집/생산 ###
 - 수집 : 관련기록을 소장하고 있는 개인/단체/기관로부터 소장기록 수집(기증, 구매, 대여 등)
@@ -186,6 +188,10 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 - Omeka 전시는 등록된 기록 아이템들 중 핵심기록을 선별하여 글과 함께 보여주는 온라인 전시 콘텐츠이다.
 - Omeka의 각 전시는 하위에 여러 계층의 페이지(Page)를 둘 수 있고, 각 페이지는 복수의 콘텐츠 블록(content block)으로 구성된다.
 - 콘텐츠 블록은 기록, 텍스트, 기록+텍스트, 지도 등의 콘텐츠에 적합한 여러 레이아웃을 선택 및 배열하여 구성한다.
+
+<img src="https://s3.amazonaws.com/libapps/accounts/17288/images/ExhibitBuilder3structure.png>
+이미지 출처: https://libguides.whitman.edu/omeka/docs
+
 
 2) 전시(Exhibit) 생성
 - 좌측 Exhibits 클릭
