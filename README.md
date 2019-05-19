@@ -1,4 +1,4 @@
-# Omeka를 이용한 히스토리 큐레이션
+# Omeka로 디지털 아카이브 만들기
 2019년 1학기 한성대학교 문헌정보과 "지역연계 프로젝트" 강의자료
 
 [강의자료1. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
@@ -172,20 +172,11 @@
 
 
 ## 4. 참고 사이트
-**강의자료**
-- 강의 깃허브 : [https://ahhn.github.io/2018Omeka2/](https://ahhn.github.io/2018Omeka2/)
-- 더블린 코어(Dublin Core) 메타데이터 설명 : [http://www.dublincore.go.kr/specifications/dces](http://www.dublincore.go.kr/specifications/dces)
-
-**Omeka**
+- 강의 깃허브 : [https://ahhn.github.io/2018Omeka2/](https://ahhn.github.io/2019Omeka/)
 - Omeka.net (가입형) : https://omeka.net
 - Omeka Classic (설치형) : https://omeka.org
 - Omeka Classic 설치방법 동영상 : https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf
 - Omeka 사이트 모음 : https://omeka.org/classic/directory/
- 
-
-**히스토리 컬렉션 찾기**
-- Omeka 사이트 모음 : https://omeka.org/classic/directory/
-
 
 
 
