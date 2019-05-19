@@ -172,12 +172,12 @@
 
 
 ## 4. 참고 사이트
-- 강의 깃허브 : [https://ahhn.github.io/2018Omeka2/](https://ahhn.github.io/2019Omeka/)
-- Omeka.net (가입형) : https://omeka.net
-- Omeka Classic (설치형) : https://omeka.org
-- Omeka Classic 설치방법 동영상 : https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf
-- Omeka 사이트 모음 : https://omeka.org/classic/directory/
-- 오픈소스 기록관리 소프트웨어 포럼(OSASF) : https://osasf.net/
+- 강의 깃허브 : [https://github.com/ahhn/2019Omeka2/](https://github.com/ahhn/2019Omeka2/)
+- Omeka.net (가입형) : [https://omeka.net](https://omeka.net)
+- Omeka Classic (설치형) : [https://omeka.org](https://omeka.org)
+- Omeka Classic 설치방법 동영상 : [https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf](https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
+- Omeka 사이트 모음 : [https://omeka.org/classic/directory/](https://omeka.org/classic/directory/)
+- 오픈소스 기록관리 소프트웨어 포럼(OSASF) : [https://osasf.net/](https://osasf.net/)
 
 
 
