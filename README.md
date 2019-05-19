@@ -276,10 +276,16 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 >> ***Block4. 대학동 살리기 프로젝트***
 
 
-
 출처: 서울역사박물관 기획전 '신림동 청춘(15.9.11~11.8)' 전시도록
 http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc-848a5bc87d8f
 
+
+
+### 2.8. 사이트 꾸미기 ###
+아카이브 사이트의 소개문, 로고, 디자인, 문의 이메일 정보 등을 제공해야 한다.
+- [보여주기 설정](https://info.omeka.net/build-a-website/manage-appearance-settings/)
+- [테마 선택](https://info.omeka.net/build-a-website/manage-themes/) 
+- [메뉴 만들기](https://info.omeka.net/build-a-website/change-site-navigation/)
 
 
 
@@ -304,6 +310,7 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 - 로그인 : MY ACCOUNT > Log In > Manage Site(관리 사이트) or View Site(서비스 사이트) 접속
 
 ![Alt text](/image/image_04.png)
+
 
 
 
