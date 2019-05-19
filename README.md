@@ -3,63 +3,15 @@
 
 [강의자료1. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
 
-[강의자료2. Omeka를 이용한 히스토리 큐레이션 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture02_HistoryCuration_with_Omeka.pdf)
+[강의자료2. 오픈소스 소프트웨어 개요 (다운로드)](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
 
-[강의자료3. 오픈소스 소프트웨어 개요 (다운로드)](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+[강의자료3. 아카이브 소개 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
 
-[강의자료4. 아카이브 소개 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+[강의자료4. Omeka CSV목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.csv)
 
-[강의자료5. Omeka v2.6.1 설치 매뉴얼 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/omeka_v2.6.1_installation.pdf)
+[강의자료5. AWS, Omeka, Filezilla 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
 
-[강의자료6-1. Omeka 엑셀목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.xlsx)
-
-[강의자료6-2. Omeka CSV목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.csv)
-
-[강의자료7. AWS, Omeka, Filezilla 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
-
-[강의자료8. AWS, Omeka, Filezilla 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/AWS_v1.9.pdf)
-
-
-## Omeka 설치
-강의자료5 참고
-
-### Root 관리자로 로그인 설정방법
-
-$ su -
-
-패스워드 입력 후 엔터
-
-$ sudo service ssh restart
-
-$ nano /etc/ssh/sshd_config
-
-방향키로 아래 텍스트를 찾기
-
-#Authentication
-
-LoginGraceTime 120
-
-PermitRootLogin **prohibit-password** 
-
-StrictMode yes
-
-위 텍스트를 아래와 같이 변경
-
-#Authentication
-
-LoginGraceTime 120
-
-PermitRootLogin **yes**
-
-StrictMode yes
-
-저장(Ctrl + O)
-
-나가기(Ctrl + X)
-
-$ sudo cp /home/ubuntu/.ssh/authorized_keys /root/.ssh
-
-$ sudo service ssh restart
+[강의자료6. AWS, Omeka, Filezilla 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/AWS_v1.9.pdf)
 
 
 
@@ -80,14 +32,16 @@ $ sudo service ssh restart
 ![Alt text](https://omeka.org/images/omeka-classic.png)
 
 
-## 2. Omeka를 이용한 히스토리 큐레이션 
+## 2. Omek로 디지털 아카이브 만들기
 ### 순서
 - 2.1 주제 선정
-- 2.2 관련자료 찾기
+- 2.2 기록 수집
 - 2.3 에세이(Curator’s essay) 작성
-- 2.4 omeka.net 가입
-- 2.5 관련자료 등록
-- 2.6 전시(Exhibition) 구성
+- 2.4 omeka 로그인
+- 2.5 아이템(Item) 등록
+- 2.6 컬렉션(Collection) 등록
+- 2.7 전시(Exhibition) 구성
+- 2.8 사이트 꾸미기
 
 
 ### 예시
