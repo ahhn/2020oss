@@ -381,3 +381,4 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
  
 [Daejin Ahn](https://www.instagram.com/djahhn/) is an artist and enterpreneur based in Seoul. Ahn founded the [archivelab](http://archivelab.co.kr) in 2016, where he continues to experiment and explore open source software based digital archives.
  
+email : djahhn@gmail.com
