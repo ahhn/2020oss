@@ -81,7 +81,7 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 
 
 ### 2.4. omeka 로그인 ### 
-- 실습 사이트 주소 : [http://54.180.85.53](http://54.180.85.53)
+- 실습 사이트 주소 : [http://13.209.4.170](http://13.209.4.170)
 
 1) 상단 로그인 클릭
 
