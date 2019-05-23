@@ -98,7 +98,9 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 
 2) Add an Item 클릭
 
-3) Dublin Core(더블린코어) : 15개 메타데이터 작성 (Title, Description, Creator, Date, Identifier는 필수)
+3) Dublin Core(더블린코어) : 15개 메타데이터 작성 (Title, Description, Creator, Date, Identifier, Rights는 필수)
+- Rights는 Creative Commons를 적용(http://www.cckorea.org/xe/ccl)
+-  하단 우측 'CCL 적용하기' 클릭 > 하단 HTML코드 복사 > Omeka의 Rights 필드에 붙여넣기 > Use HTmL 체크
 
 4) Item Type Metadata : 특별한 유형의 기록을 등록할 경우 아이템 타입(Item Type)을 선택하여 메타데이터 작성
 
@@ -289,7 +291,7 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 
 
 
-## 3. Omeka.net 활용방법
+## 3. [부록] Omeka.net 활용방법
 - [이용자 매뉴얼](https://info.omeka.net/manage-an-account/)
 
 ### 3.1 가입
