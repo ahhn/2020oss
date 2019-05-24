@@ -15,6 +15,7 @@
 
 [강의자료7. 더블린 코어(Dublin Core) 설명](https://www.nl.go.kr/standards/dublincore/dublinCoreDcmes.do)
 
+[강의자료8. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog2.csv)
 
 
 ## 1.Omeka 소개
