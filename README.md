@@ -4,40 +4,21 @@
  
 ## 1.오메카 개요(12:37)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwNHzpWM_hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[강의 슬라이드 다운로드](https://github.com/ahhn/2020oss/raw/master/lecture/%40lab_Omeka_Introduction_WIDE_light.pdf)  </br>
+[강의 슬라이드 다운로드](https://github.com/ahhn/2020oss/raw/master/lecture/%40lab_Omeka_Introduction_WIDE_light.pdf)  <br>
 
 ## 2.오메카 화면구성(14:22)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/igGE620FUPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/igGE620FUPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
 
 ## 3.오메카 - 아이템 등록(20:11)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2jmTX0O5a_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2jmTX0O5a_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
 
 ## 4.오메카 - 컬렉션 등록(08:02)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NsqX-OeFhGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NsqX-OeFhGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
 ## 5.오메카 - 전시 만들기(14:27)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eRFmR3yWmRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eRFmR3yWmRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
 
 
-[YouTube 재생목록 바로가기 (클릭)](https://www.youtube.com/playlist?list=PLya-3fVEf50aeD7dq6cAOaEGnw0ld0sgi)  </br></br></br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[YouTube 재생목록 바로가기 (클릭)](https://www.youtube.com/playlist?list=PLya-3fVEf50aeD7dq6cAOaEGnw0ld0sgi)  <br><br><br>
 
 
 ## 참고자료
@@ -60,8 +41,7 @@
 
 [강의자료9. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2019Omeka/raw/master/lecture/catalog2.csv)
 
-
-
+<br><br><br>
 
 ## 참고 사이트
 - 강의 깃허브 : [https://github.com/ahhn/2020oss/](https://github.com/ahhn/2020oss/)
@@ -71,7 +51,7 @@
 - Omeka 사이트 모음 : [https://omeka.org/classic/directory/](https://omeka.org/classic/directory/)
 - 오픈소스 기록관리 소프트웨어 포럼(OSASF) : [https://osasf.net/](https://osasf.net/)
 
-
+<br><br><br>
 
 ## Instructor information
  
