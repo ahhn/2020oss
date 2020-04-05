@@ -18,7 +18,7 @@
 5.오메카 - 전시 만들기(14:27)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eRFmR3yWmRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[YouTube 재생목록 바로가기 (클릭)](https://www.youtube.com/watch?v=wQapsJiNZ_E&list=PLya-3fVEf50aeD7dq6cAOaEGnw0ld0sgi)
+[YouTube 재생목록 바로가기 (클릭)](https://www.youtube.com/playlist?list=PLya-3fVEf50aeD7dq6cAOaEGnw0ld0sgi)
 
 
 
@@ -411,7 +411,7 @@ http://www.museum.seoul.kr/common/file/NR_download.do?id=e42dcc9e-4d84-4de3-a8fc
 
 
 ## 4. 참고 사이트
-- 강의 깃허브 : [https://github.com/ahhn/2019Omeka2/](https://github.com/ahhn/2019Omeka2/)
+- 강의 깃허브 : [https://github.com/ahhn/2020oss/](https://github.com/ahhn/2020oss/)
 - Omeka.net (가입형) : [https://omeka.net](https://omeka.net)
 - Omeka Classic (설치형) : [https://omeka.org](https://omeka.org)
 - Omeka Classic 설치방법 동영상 : [https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf](https://www.youtube.com/watch?v=qfhjxUGkR0g&index=2&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
