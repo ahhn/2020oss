@@ -1,21 +1,61 @@
-# Omeka로 디지털 아카이브 만들기
-2019년 1학기 한성대학교 문헌정보과 "지역연계 프로젝트" 강의자료
+# 디지털 아키비스트 툴킷 : AtoM & Omeka
+2020년 1학기 한성대학교 문헌정보과 "지역연계 프로젝트" 강의자료
 
-[강의자료1. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
+ 
+1.오메카 개요(12:37)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwNHzpWM_hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[강의 슬라이드 다운로드](https://github.com/ahhn/2020oss/raw/master/lecture/%40lab_Omeka_Introduction_WIDE_light.pdf)
 
-[강의자료2. 오픈소스 소프트웨어 개요 (다운로드)](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+2.오메카 화면구성(14:22)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2jmTX0O5a_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[강의자료3. 아카이브 개요 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+3.오메카 - 아이템 등록(20:11)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2jmTX0O5a_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[강의자료4. Omeka CSV목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.csv)
+4.오메카 - 컬렉션 등록(08:02)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NsqX-OeFhGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[강의자료5. AWS, Omeka, Filezilla 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
+5.오메카 - 전시 만들기(14:27)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eRFmR3yWmRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[강의자료6. AWS, Omeka, Filezilla 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/AWS_v1.9.pdf)
+[YouTube 재생목록 바로가기 (클릭)](https://www.youtube.com/watch?v=wQapsJiNZ_E&list=PLya-3fVEf50aeD7dq6cAOaEGnw0ld0sgi)
 
-[강의자료7. 더블린 코어(Dublin Core) 설명](https://www.nl.go.kr/standards/dublincore/dublinCoreDcmes.do)
 
-[강의자료8. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2019Omeka/raw/master/lecture/catalog2.csv)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 참고자료
+
+[강의자료1. 디지털 아키비스트 툴킷 - AtoM & Omeka (다운로드)](https://github.com/ahhn/2020oss/raw/master/lecture/@lab_Omeka_Introduction_WIDE_light.pdf)
+
+[강의자료2. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
+
+[강의자료3. 오픈소스 소프트웨어 개요 (다운로드)](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+
+[강의자료4. 아카이브 개요 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+
+[강의자료5. Omeka CSV목록 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/catalog.csv)
+
+[강의자료6. AWS, Omeka, Filezilla 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
+
+[강의자료7. AWS, Omeka, Filezilla 매뉴얼](https://github.com/ahhn/2018Omeka2/raw/master/lecture/AWS_v1.9.pdf)
+
+[강의자료8. 더블린 코어(Dublin Core) 설명](https://www.nl.go.kr/standards/dublincore/dublinCoreDcmes.do)
+
+[강의자료9. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2019Omeka/raw/master/lecture/catalog2.csv)
 
 
 ## 1.Omeka 소개
