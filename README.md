@@ -17,9 +17,7 @@
 ## 5.오메카 - 전시 만들기(14:27)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eRFmR3yWmRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
 
-
-[YouTube 재생목록 바로가기 (클릭)](https://www.youtube.com/playlist?list=PLya-3fVEf50aeD7dq6cAOaEGnw0ld0sgi)  <br><br><br>
-
+[YouTube 재생목록 바로가기 (클릭)](https://www.youtube.com/playlist?list=PLya-3fVEf50aeD7dq6cAOaEGnw0ld0sgi)  <br><br>
 
 ## 참고자료
 
@@ -41,7 +39,7 @@
 
 [강의자료9. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2019Omeka/raw/master/lecture/catalog2.csv)
 
-<br><br><br>
+<br><br>
 
 ## 참고 사이트
 - 강의 깃허브 : [https://github.com/ahhn/2020oss/](https://github.com/ahhn/2020oss/)
@@ -51,7 +49,7 @@
 - Omeka 사이트 모음 : [https://omeka.org/classic/directory/](https://omeka.org/classic/directory/)
 - 오픈소스 기록관리 소프트웨어 포럼(OSASF) : [https://osasf.net/](https://osasf.net/)
 
-<br><br><br>
+<br><br>
 
 ## Instructor information
  
